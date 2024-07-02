@@ -1,7 +1,7 @@
 // CGPACalculator.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-import <iostream>;
+import std;
 
 int main()
 {
